@@ -1,0 +1,27 @@
+/*
+ Theme Name:     Divi Child Theme
+ Theme URI:      http://www.elegantthemes.com
+ Description:    Child Theme for Divi Theme by Elegant Themes
+ Author:         Divi.world
+ Author URI:     http://divi.world
+ Template:       Divi
+ Version:        1.0.0
+*/
+ 
+/* =Ab hier kannst du deine CSS-Anpassungen eintragen
+------------------------------------------------------- */
+p {
+    hyphens: auto;
+}
+
+.single-post .et_pb_row.et_pb_row_0 {
+	width: 100% !important;
+}
+.single-post .et_pb_section {
+    background-color: transparent;
+    padding-top: 0;
+}
+
+#et-top-navigation {
+	font-weight: 400;
+}
